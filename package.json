@@ -2,6 +2,7 @@
   "name": "proyectbs",
   "type": "module",
   "version": "0.0.1",
+  "description": "pagina de prueba",
   "engines": {
     "node": ">=22.12.0"
   },
